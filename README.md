@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## bhagya-ksirii
+this is my first repository
+Author = bhagya-ksirii
 <!--
 **bhagya-ksirii/bhagya-ksirii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
